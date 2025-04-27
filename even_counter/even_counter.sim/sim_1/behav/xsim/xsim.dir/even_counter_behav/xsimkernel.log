@@ -1,4 +1,0 @@
-Running: xsim.dir/even_counter_behav/xsimk.exe -simmode gui -wdb even_counter_behav.wdb -simrunnum 0 -socket 57088
-Design successfully loaded
-Design Loading Memory Usage: 8420 KB (Peak: 8420 KB)
-Design Loading CPU Usage: 31 ms
